@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"fle",
+				"flex-end\talign-content"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"footer",
+				"footer_nav"
+			],
+			[
+				"wr",
+				"flex-wrap\tproperty"
+			],
+			[
+				"b",
+				"inline-block\tdisplay"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"grid",
+				"grid-area\tproperty"
+			],
+			[
+				"fl",
+				"flex-start\talign-self"
+			],
+			[
+				"grid-temp",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"gri-",
+				"grid-gap\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"cont",
+				"justify-content\tproperty"
+			],
+			[
+				"font-",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"fot",
+				"font-style\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"space",
+				"space-around\tjustify-content"
+			],
+			[
+				"sp",
+				"space-between\talign-content"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"he",
+				"head_logo"
+			],
+			[
+				"back",
+				"background-origin\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"ite",
+				"align-items\tproperty"
+			],
+			[
+				"align-",
+				"align-content\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"grid-c",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"aligne",
+				"align-items\tproperty"
+			],
+			[
+				"borde",
+				"border-spacing\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"x",
+				"x-1"
+			],
+			[
+				"hidd",
+				"hidden_words"
+			],
+			[
+				"word",
+				"word_dict"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"s",
+				"stry"
+			],
+			[
+				"gender",
+				"gender_search"
+			],
+			[
+				"up",
+				"update_value"
+			],
+			[
+				"list",
+				"listgot"
+			],
+			[
+				"ne",
+				"nextlistgot"
+			],
+			[
+				"f",
+				"full_rectangle"
+			],
+			[
+				"nu",
+				"number2"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"co",
+				"count_separators"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/techmanager/Tech_Front/dmonrea-developer-dot-com"
+	],
+	"file_history":
+	[
+		"/home/techmanager/Tech_Front/dmonrea-developer-dot-com/projects/yoursite/content/My First Article.rst",
+		"/home/techmanager/Tech_Front/dmonrea-developer-dot-com/projects/yoursite/pelicanconf.py",
+		"/home/techmanager/Tech_Front/dmonrea-developer-dot-com/projects/yoursite/content/My Second Review.rst",
+		"/home/techmanager/Tech_Front/dmonrea-developer-dot-com/projects/yoursite/content/pages/About me.rst",
+		"/home/techmanager/Bureau/comment divenir un manager agile plusier fois",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/contact.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/big_gallery/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/amazing.html",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/about.html",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/application_amazing (copie).css",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/application_amazing.css",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/home.html",
+		"/home/techmanager/.cache/.fr-P8Hkuh/application_home.css",
+		"/home/techmanager/.cache/.fr-LDrpzi/home16H30.html",
+		"/home/techmanager/.cache/.fr-pvrkMj/home2.html",
+		"/home/techmanager/.cache/.fr-s7uXCh/home.html",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/application_home16H30.css",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/application_home13h09.css",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/application_home.css",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/home16H30.html",
+		"/home/techmanager/tech_front/dmonrea-immersion-responsive/big_flex/big_flex.html",
+		"/home/techmanager/tech_front/dmonrea-immersion-responsive/big_flex/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/big_flex/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-flour-shower/home2.html",
+		"/home/techmanager/capgemini",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/big_grid/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/medium_gallery/medium_gallery.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/big_grid/big_grid.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/big_media_query/big_media_query.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/medium_grid/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/medium_grid/medium_grid.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/big_media_query/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/big_flex/big_flex.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/medium_flex/medium_flex.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/medium_media_query/medium_media_query.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/medium_media_query/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/medium_flex/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-exam-02/find_z_words/find_z_words.py",
+		"/home/techmanager/Tech_Front/dmonrea-exam-02/count_length/count_length.py",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/small_grid/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/small_grid/small_grid.html",
+		"/home/techmanager/Tech_Front/excercise_random/Formation au métier de \"Chef.fe de projet numériqu",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/first_flex/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/first_flex/first_flex.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/big_gallery/big_gallery.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/small_media_query/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-responsive/small_media_query/small_media_query.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/diagonal_squares/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/diagonal_squares/diagonal_squares.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/spaced_table/spaced_table.html",
+		"/home/techmanager/Tech_Front/excercise_random/Html/struttura_base.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/html_table/html_table.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/aligned_form/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/spaced_table/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/small_gallery/small_gallery.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/bordered_table/bordered_table.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/html_form/html_form.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/html_input/html_input.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/html_world/html_world.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/rainbow_squares/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/html_world_rainbow/html_world_rainbow.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/html_world_italic/html_world_italic.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/rainbow_squares/rainbow_squares.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/html_world_rainbow/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/red_square/red_square.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/red_square/application.css",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/rainbow_squares/html_world_rainbow.html",
+		"/home/techmanager/Tech_Front/dmonrea-immersion-html/html_world.html",
+		"/home/techmanager/Tech_Front/dbeller-minesweeper/ms_view_model.py",
+		"/home/techmanager/Tech_Front/dbeller-minesweeper/ms_view_controller.py",
+		"/home/techmanager/Tech_Front/dbeller-minesweeper/minesweeper_view.py",
+		"/home/techmanager/Tech_Front/dbeller-minesweeper/minesweeper.py",
+		"/home/techmanager/Tech_Front/excercise_random/david group/dbeller-minesweepeer/minesweeper_controller.py",
+		"/home/techmanager/Tech_Front/excercise_random/david group/dbeller-minesweepeer/minesweeper_view.py",
+		"/home/techmanager/Tech_Front/vcombet-rectangles/final_pattern.py",
+		"/home/techmanager/Tech_Front/excercise_random/david group/minesweeper_controller.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d09/make_none_grid/make_none_grid.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d09/display_grid/display_grid.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d09/display_grid_per_line/display_grid_per_line.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d08/generate_room_numbers/generate_room_numbers.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d08/index_by_len/index_by_len.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d09/make_tictactoe_grid/make_tictactoe_grid.py",
+		"/home/techmanager/Tech_Front/dmonrea-exam-01/countdown/countdown.py",
+		"/home/techmanager/Tech_Front/dmonrea-exam-01/print_stars/print_stars.py",
+		"/home/techmanager/Tech_Front/dmonrea-exam-01/str_length/str_length.py",
+		"/home/techmanager/Tech_Front/dmonrea-exam-01/classify_words/classify_words.py",
+		"/home/techmanager/Tech_Front/dmonrea-exam-01/encode_str/encode_str.py",
+		"/home/techmanager/Tech_Front/vcombet-rectangles/empty_rectangle.py",
+		"/home/techmanager/Tech_Front/vcombet-rectangles/pattern.py",
+		"/home/techmanager/Tech_Front/vcombet-rectangles/square.py",
+		"/home/techmanager/Tech_Front/vcombet-rectangles/full_rectangle.py",
+		"/home/techmanager/Tech_Front/dmonrea-exam-01/count_occurrences/count_occurrences.py",
+		"/home/techmanager/Tech_Front/def duplicate_encode(word).py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d08/train_refund/train_refund.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d08/conditional_sum/conditional_sum.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d08/gender_search/gender_search.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d08/print_filter/print_filter.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d08/topping_finder/topping_finder.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d07/valid_car/valid_car.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d07/complete_week_dict/complete_week_dict.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d07/find_values/find_values.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d07/update_value/update_value.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d07/create_week_dict/create_week_dict.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d06/exceptions_generator/exceptions_generator.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d07/display_dict/display_dict.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d07/increment_dict/increment_dict.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d07/find_value/find_value.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d05/register_players/register_players.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d05/register_players/count_living_players.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d05/find_traitors/find_traitors.py",
+		"/home/techmanager/Tech_Front/excecise12_04.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d06/exceptions_filter/exceptions_filter.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d06/roshambo/roshambo.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d06/captain_age/captain_age.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d06/import_ship/import_ship.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d06/display_arguments/display_arguments.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d06/fly_swim/fly_swim.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d05/proper_announce/proper_announce.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d05/announce/announce.py",
+		"/home/techmanager/Tech_Front/testrange.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d05/return_default_referee/return_default_referee.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d05/return_default_players/return_default_players.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d05/display_intro/display_intro.py",
+		"/home/techmanager/Tech_Front/dmonrea-python-d02/upper_input_end/upper_input_end.py",
+		"/home/techmanager/Tech_Front/empty square v.2.py",
+		"/home/techmanager/Tech_Front/height.py",
+		"/home/techmanager/Tech_Front/height = 6.py",
+		"/home/techmanager/Tech_Front/vcombet-rectangles/advanced_pattern.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "devcom.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".",
+				"~/Tech_Front/dmonrea-word-searches/word_searches.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
