@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}">
+
+<head>
+{% block head %}
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+<link href="{{ SITEURL }}/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+{% block extra_head %}{% endblock extra_head %}
+        {% endblock head %}
+<!-- <link href="{{ SITEURL }}/{{ FEED }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
+{% if FEED_RSS %}
+<link href="{{ SITEURL }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+{% endif %} -->
+</head>
+<body>
+<div id="wrapper">
+	<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				{% block content %}
+                                {% endblock %}
+				<div id="sidebar">
+					<div id="logo">
+						<h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+						{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
+					</div>
+					<div id="menu">
+						<ul>
+							<li {% if page_name == "index" %}class="current_page_item"{% endif %}><a href="{{ SITEURL }}">Home</a></li>
+							<li {% if page_name == "archives" %}class="current_page_item"{% endif %}><a href="{{ SITEURL }}/archives.html">Archives</a></li>
+							{% if DISPLAY_PAGES_ON_MENU %}
+                                                        {% for page in pages %}
+                                                            <li {% if page_name == page_title %}class="current_page_item"{% endif %}><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+                                                        {% endfor %}
+                                                        {% endif %}
+						</ul>
+					</div>
+					<ul>
+						<li>
+							<h2>Catégories</h2>
+							<ul>
+							{% for cat, null in categories %}
+								 <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+							{% endfor %}
+							</ul>
+						</li>
+						{% if LINKS %}
+						<li>
+							<h2>Blogroll</h2>
+							<ul>
+							{% for name, link in LINKS %}
+                                                            <li><a href="{{ link }}">{{ name }}</a></li>
+                                                        {% endfor %}
+							</ul>
+						</li>
+						{% endif %}
+						{% if SOCIAL %}
+                                                <li>
+                                                        <h2>Social</h2>
+                                                        <ul>
+                                                            <li><a href="{{ SITEURL }}/{{ FEED }}" rel="alternate">Flux Atom</a></li>
+                                                            {% if FEED_RSS %}
+                                                            <li><a href="{{ SITEURL }}/{{ FEED_RSS }}" rel="alternate">Flux Rss</a></li>
+                                                            {% endif %}
+                                                        {% for name, link in SOCIAL %}
+                                                            <li><a href="{{ link }}">{{ name }}</a></li>
+                                                        {% endfor %}
+                                                        </ul>
+                                                </li><!-- /.social -->
+                                                {% endif %}
+						<li>
+						        <h2>Tags</h2>
+						        <ul>
+						        {% for tag, articles in tags %}
+                                                                <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
+                                                        {% endfor %}
+						        </ul>
+						</li>
+						
+						
+					</ul>
+				</div>
+				<!-- end #sidebar -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- end #page -->
+
+<div id="footer">
+	<p>Copyright (c) 2021 dm.com. All rights reserved. Design by <a href="https://www.linkedin.com/in/denise-monreale-138493208/">Denise Monreale</a>.</p>
+<p>As ScrumMasters, we should all value being great over being good.</p>
+	<p>Proudly powered by <a href="https://www.linkedin.com/in/denise-monreale-138493208/">DM</a>, which takes great advantages of <a href="https://matrice.io/">Matrice</a>.
+</p>
+</div>
+{% include 'analytics.html' %}
+<!-- end #footer -->
+</body>
+</html>
