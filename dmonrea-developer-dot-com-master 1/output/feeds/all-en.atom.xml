@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Comment devenir un manager</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2021-05-03T10:20:00+02:00</updated><subtitle>Agile</subtitle><entry><title>Is your code clean?</title><link href="/is-your-code-clean.html" rel="alternate"></link><published>2021-05-03T10:20:00+02:00</published><updated>2021-05-03T10:20:00+02:00</updated><author><name>Denise</name></author><id>tag:None,2021-05-03:/is-your-code-clean.html</id><summary type="html">&lt;p class="first last"&gt;Good HTML practices.&lt;/p&gt;
+</summary><content type="html">&lt;div class="section" id="tl-dr"&gt;
+&lt;h2&gt;TL;DR&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Always use the HTML5 doctype&lt;/li&gt;
+&lt;li&gt;Use semantic markup (both for structural elements &amp;amp; text)&lt;/li&gt;
+&lt;li&gt;Respect the hierarchy of titles&lt;/li&gt;
+&lt;li&gt;Always close your tags&lt;/li&gt;
+&lt;li&gt;No inline CSS&lt;/li&gt;
+&lt;li&gt;Write expressive link anchor text&lt;/li&gt;
+&lt;li&gt;Use lowercase markup&lt;/li&gt;
+&lt;li&gt;Use proper indentation&lt;/li&gt;
+&lt;li&gt;Fill the &amp;quot;alt&amp;quot; for images&lt;/li&gt;
+&lt;li&gt;Specify appropriate metadata&lt;/li&gt;
+&lt;li&gt;Validate your HTML&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="Tips"></category></entry><entry><title>Bootstrap 5 is (almost) out!</title><link href="/bootstrap-5-is-almost-out.html" rel="alternate"></link><published>2020-06-16T16:34:00+02:00</published><updated>2020-06-16T16:34:00+02:00</updated><author><name>Denise</name></author><id>tag:None,2020-06-16:/bootstrap-5-is-almost-out.html</id><summary type="html">&lt;p class="first last"&gt;Changes in Bootstrap 5.&lt;/p&gt;
+</summary><content type="html">&lt;div class="section" id="why-was-jquery-removed-from-bootstrap"&gt;
+&lt;h2&gt;Why was jQuery removed from Bootstrap?&lt;/h2&gt;
+&lt;p&gt;Mark Otto, the founder of Bootstrap has written:&lt;/p&gt;
+&lt;p&gt;&amp;quot;We’re sharpening our focus on building tools that are more future-friendly, and while we’re not fully there yet, the promise of CSS variables, faster JavaScript, fewer dependencies, and better APIs certainly feel right to us.&lt;/p&gt;
+&lt;p&gt;jQuery brought unprecedented access to complex JavaScript behaviors to millions (billions?) of people over the last decade and a half. Personally, I’m forever grateful for the empowerment and support it gave me to continue writing front-end code, learning new things, and embracing plugins from the community. Perhaps most importantly, it’s forever changed JavaScript itself, and that in itself is a monument to jQuery’s success. Thank you to every jQuery contributor and maintainer who made that possible for folks like me.&lt;/p&gt;
+&lt;p&gt;Thanks to advancement made in front-end development tools and browser support, we’re now able to drop jQuery as a dependency, but you’d never notice otherwise.&amp;quot;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="why-was-support-for-ie-10-and-ie11-dropped"&gt;
+&lt;h2&gt;Why was support for IE 10 and IE11 dropped?&lt;/h2&gt;
+&lt;p&gt;The above answer also applies here:&lt;/p&gt;
+&lt;p&gt;&amp;quot;We’re sharpening our focus on building tools that are more future-friendly, and while we’re not fully there yet, the promise of CSS variables, faster JavaScript, fewer dependencies, and better APIs certainly feel right to us.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="will-migration-from-v4-to-v5-be-easy"&gt;
+&lt;h2&gt;Will migration from v4 to v5 be easy?&lt;/h2&gt;
+&lt;p&gt;It will certainly be easier than migrating from v3 to v4. There are definitely fewer syntax changes this time, and backward compatibility is much better guaranteed.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="Review"></category></entry></feed>

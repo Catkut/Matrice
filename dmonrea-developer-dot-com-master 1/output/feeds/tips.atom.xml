@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Comment devenir un manager - Tips</title><link href="/" rel="alternate"></link><link href="/feeds/tips.atom.xml" rel="self"></link><id>/</id><updated>2021-05-03T10:20:00+02:00</updated><subtitle>Agile</subtitle><entry><title>Is your code clean?</title><link href="/is-your-code-clean.html" rel="alternate"></link><published>2021-05-03T10:20:00+02:00</published><updated>2021-05-03T10:20:00+02:00</updated><author><name>Denise</name></author><id>tag:None,2021-05-03:/is-your-code-clean.html</id><summary type="html">&lt;p class="first last"&gt;Good HTML practices.&lt;/p&gt;
+</summary><content type="html">&lt;div class="section" id="tl-dr"&gt;
+&lt;h2&gt;TL;DR&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Always use the HTML5 doctype&lt;/li&gt;
+&lt;li&gt;Use semantic markup (both for structural elements &amp;amp; text)&lt;/li&gt;
+&lt;li&gt;Respect the hierarchy of titles&lt;/li&gt;
+&lt;li&gt;Always close your tags&lt;/li&gt;
+&lt;li&gt;No inline CSS&lt;/li&gt;
+&lt;li&gt;Write expressive link anchor text&lt;/li&gt;
+&lt;li&gt;Use lowercase markup&lt;/li&gt;
+&lt;li&gt;Use proper indentation&lt;/li&gt;
+&lt;li&gt;Fill the &amp;quot;alt&amp;quot; for images&lt;/li&gt;
+&lt;li&gt;Specify appropriate metadata&lt;/li&gt;
+&lt;li&gt;Validate your HTML&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="Tips"></category></entry></feed>
