@@ -1,0 +1,264 @@
+* {
+	 font-family: 'Arial', sans-serif;   
+}
+
+body {
+	margin: 0; 
+}
+
+main {
+/*  display: flex; */
+/*  flex-wrap: wrap; */
+/*  flex-direction: row; */
+/*  margin: 0;  */
+}
+
+@media screen and (max-width: 550px) {
+	#experience {
+		flex-direction: column; 
+	}
+	#review {
+		flex-direction: column; 
+	}
+}
+
+@media screen and (min-width: 550px) and (max-width: 700px) {
+	#experience {
+		flex-direction: column;
+	}
+			#review {
+		flex-direction: column; 
+	}
+}
+
+@media screen and (min-width: 700px) {
+	#experience {
+		flex-direction: row;
+	}
+			#review {
+		flex-direction: row; 
+	}
+}
+
+header {
+	background-color: #1f4a66;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 3%;
+}
+
+.head_logo {
+	padding: 7px;
+	margin-left: 5%;
+}
+
+nav {
+	margin-right: 5%;
+}
+nav li {
+	display: inline;
+	list-style: none;
+}
+
+header nav a {
+	padding: 8px;
+	color: white;
+	text-decoration: none;
+		margin-bottom: 5%;
+}
+
+#inizio {
+	text-align: center;
+	width: 100%;
+	font-size: 1.3em;
+	margin-bottom: 10%;
+
+}
+#inizio h1 {
+	margin-bottom: 2%;
+}
+	
+#experience {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 4%;
+}
+.exp_texte {
+	flex-direction: column;
+	margin: 4%;
+	margin-right: 10%;
+
+}
+.exp_texte h3 {
+	margin-top: 4%;
+ }
+.exp_texte p {
+	font-size: 15px;
+	color: #6c747c
+}
+#exp_img {
+	margin-right: 2%;
+	width: 420px;
+}
+
+#newsletter {
+	display: flex;
+	width: 100%;
+	justify-content: space-evenly;
+	align-items: center;
+	margin-bottom: 5%;
+	text-align: left;
+ background: #f4f4f4;
+}
+
+#newsletter p {
+	font-size: 18px;
+	margin: 5%;
+	margin-bottom: 5%;
+}
+
+#newsletter button {
+	font-size: 18px;
+	padding-right: 2%;
+	padding-left: 2%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	font-weight: bold;
+	border: 1px solid #f7d24d;
+	border-radius: 7px 7px;
+	background: #fef6d5;
+}
+
+h2 {
+	font-size: 2em;
+	margin-left: 3%;
+	text-align: left;
+}
+
+#signature {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 1%;
+	text-align: left;
+}
+
+.dignature {
+	margin: 5%; 
+}
+#signature img {
+	border-radius: 100%;
+	width: 150px;
+}
+#signature p {
+	font-size: 15px;
+	color: #6c747c;
+
+	text-align: justify;
+ }
+#signature button {
+	font-size: 18px;
+	padding: 3%;
+	font-weight: bold;
+	border: 1px solid #f7d24d;
+	background: #fef6d5;
+	border-radius: 7px 7px;
+}
+
+#review  {
+	display: flex;
+	justify-content: space-between;
+	background: #f4f4f4;
+	align-items: center;
+	margin-bottom: 5%;
+}
+.review_text {
+	font-size: 15px;
+	text-align: left;
+	margin: 5%;
+	margin-right: 10%;
+}
+.review_text h5 {
+	text-align: right;
+	margin-bottom: 4%;
+	margin-top: 4%;
+}
+.review_img {
+	margin-right: 2%;
+	width: 400px;
+
+}
+
+/* color caracter #6c747c */
+
+footer {
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	margin-top: 5%;
+
+}
+footer a {
+
+	text-decoration: none;
+}
+
+.footer_nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.footer_nav a {
+	display: flex;
+	flex-direction: column;
+
+}
+
+.collect a {
+	margin-bottom: 3%;
+	margin-top: 3%;
+	text-align: center;
+}
+
+.bakery a {
+	margin-bottom: 3%;
+	margin-top: 3%;
+
+}
+.footer_button {
+	grid-area: buttone;
+	font-size: 17px;
+	font-weight: bold;
+	border: 1px solid #f7d24d;
+	background: #fef6d5;
+	margin: 5%;
+	border-radius: 7px 7px;
+}
+
+.footer_copyright {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 0 5% 1% 5%;
+	border-top: 1px solid darkgrey;
+}
+
+.footer_social {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	width: 200px;
+}
+
+.footer_linkedin {
+	margin-left: 10%;
+	width: 30px; 
+}
+
+.footer_twitter {
+	margin-left: 5%;
+	margin-right: 10%;
+	width: 30px; 
+}
