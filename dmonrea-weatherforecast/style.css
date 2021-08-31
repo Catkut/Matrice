@@ -1,0 +1,97 @@
+body {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.standard{
+  background-image: linear-gradient(90deg, cyan 0%, lightblue 100%);
+  background-size: 100% 1000%;
+}
+
+.notte {
+  background-image: linear-gradient(90deg, #000000 0%, #0000de 100%);
+  background-size: 100% 1000%;
+}
+
+.giorno {
+  background-image: linear-gradient(90deg, cyan 0%, lightblue 100%);
+  background-size: 100% 1000%;    
+}
+
+
+h1 {
+  color: black;
+  text-align: center;
+  margin: 20px;
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+img { 
+  align-self:center;
+  width: 100px;
+}
+
+.notteImg {
+  -webkit-filter:invert(100%);
+    filter:progid:DXImageTransform.Microsoft.BasicImage(invert='1');
+}
+
+.day {
+  margin: 20px;
+  text-align:center;
+}
+
+#meteo
+{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#city {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+
+}
+
+.day-select {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+#sub {
+  padding: 5px;
+  color: white;
+  background-color: blue;
+  border-color: blue;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.bottone{
+  width: 100px;
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+  border: 2px solid #0F1;
+  float: right;
+}
+
+.hidden {
+  display: none;
+}
